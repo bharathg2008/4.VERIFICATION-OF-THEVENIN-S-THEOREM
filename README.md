@@ -32,24 +32,23 @@ Thevenin’s Resistance, RTh:
 
 It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
-**CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM**
+**CIRCUIT DIAGRAM:
 
-To measure IL
 
-<img width="469" height="143" alt="image" src="https://github.com/user-attachments/assets/a89d6d2b-c628-434d-961f-3ae03e200d8e" />
+![jfoasd](https://github.com/user-attachments/assets/016fe963-2b82-46ee-8a17-3b8c0ebf98b0)
 
-To measure RTh or RN
+## Tabulation:
 
-<img width="360" height="139" alt="image" src="https://github.com/user-attachments/assets/4a0cd230-205b-48ad-ab08-f359aaf192a6" />
 
-To measure VTh or Voc
 
-<img width="452" height="142" alt="image" src="https://github.com/user-attachments/assets/b0bb48a9-90fe-4979-a3fe-4e41c67239ce" />
+![MMKN](https://github.com/user-attachments/assets/3879b526-0d5c-4b63-95d6-629f6fa65196)
+## calculation:
 
-Thevenin’s equivalent circuit
+![FDHJBJF](https://github.com/user-attachments/assets/7d381f94-af30-4569-9284-e7fce8b2a2d8)
 
-<img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
 
+
+![WhatsApp Image 2025-10-15 at 22 10 27_f57f09cd](https://github.com/user-attachments/assets/f456660b-f8ae-4b76-8e86-3e4cff22e8a0)
 
 **PROCEDURE:**
 
@@ -78,3 +77,15 @@ Thevenin’s equivalent circuit
     Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 13.	Theoretically verify the Norton’s theorem.
+## marks splitup:
+
+
+
+![WhatsApp Image 2025-10-15 at 22 23 44_4648217d](https://github.com/user-attachments/assets/21a513a3-8463-42be-a2bc-581e81fc3f76)
+
+
+** Result:
+
+
+     The Thevenin's theorem is verified practically and theoretically.
+
